@@ -1,4 +1,4 @@
-FROM docker:dind
+FROM docker:latest
 
 MAINTAINER Jeroen Knoops <jeroen.knoops@gmail.com>
 
